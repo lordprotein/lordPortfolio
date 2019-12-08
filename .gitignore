@@ -1,3 +1,4 @@
 node_modules
 src/styles/css/styles.css
 package-lock.json
+package.json
