@@ -1,13 +1,13 @@
 var gulp = require('gulp'),
 	less = require('gulp-less'),
-	babel = require('gulp-babel'),
+	babel = require('gulp-babel');
 	// autoprefixer_css = require('gulp-autoprefixer'),
 	// csso = require('gulp-csso'),
 	// minify = require('gulp-minify'),
-	concat = require('gulp-concat');
+	// concat = require('gulp-concat');
 
 var src = {
-	modules: 'src/moduleRules',
+	modules: 'src/modules',
 	styles: {
 		less: 'src/styles/less',
 		css: 'src/styles/css'
